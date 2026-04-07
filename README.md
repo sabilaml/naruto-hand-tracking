@@ -9,9 +9,13 @@ Efek visual karakter:
 🔵 Sasuke (tangan kanan)
 Tampilan garis biru untuk tracking tangan
 Responsif dan ringan (tanpa efek glow berat)
+
+
 🛠️ Teknologi
 HTML, CSS, JavaScript
 MediaPipe Hands
+
+
 ▶️ Cara Menjalankan
 Download atau clone repository ini
 Pastikan struktur folder seperti berikut:
@@ -22,6 +26,8 @@ NARUTO/
 │   └── sasuke.mp4
 Buka file index.html di browser (Chrome disarankan)
 Izinkan akses kamera
+
+
 🎯 Kontrol
 ✋ Tangan kanan terbuka → Mengaktifkan kekuatan Sasuke
 ✋ Tangan kiri terbuka → Mengaktifkan kekuatan Naruto
@@ -30,6 +36,8 @@ Izinkan akses kamera
 Efek glow dihapus agar kompatibel dengan semua device
 Disarankan menggunakan browser Chrome untuk performa terbaik
 Pastikan kamera aktif dan tidak digunakan aplikasi lain
+
+
 📌 Author
 
 Sabila Marista Losya
